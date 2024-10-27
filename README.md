@@ -59,4 +59,4 @@ Limited resources are available for Telugu-speaking students and learners, makin
 Using React, Express, and Firebase offers a robust, scalable architecture. Technologies like Tesseract OCR for text extraction and Speech Recognition APIs for pronunciation feedback make the implementation of personalized learning experiences feasible.
 
 ## Prototype Images/Algorithms/Flowcharts/Graphs
-- [https://drive.google.com/drive/folders/1hJ6-P0NBGfbYppAhHgODHMvx3aFSXK6p?usp=sharing](#)
+- [https://drive.google.com/file/d/1TNQ4RdxCOCRzbvM2Ge2FHm9W3C0-r4Wc/view?usp=sharing](#)
