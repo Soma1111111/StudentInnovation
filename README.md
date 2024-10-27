@@ -60,4 +60,3 @@ Using React, Express, and Firebase offers a robust, scalable architecture. Techn
 
 ## Prototype Images/Algorithms/Flowcharts/Graphs
 - [https://drive.google.com/file/d/1TNQ4RdxCOCRzbvM2Ge2FHm9W3C0-r4Wc/view?usp=sharing](#)
--  ![alt text](https://drive.google.com/file/d/1TNQ4RdxCOCRzbvM2Ge2FHm9W3C0-r4Wc/view?usp=sharing) 
