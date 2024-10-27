@@ -1,0 +1,41 @@
+Student Innovation (Language related application)
+Problem Description and statistical Data
+This is student innovation where we’ll make an application based on one of the toughest languages Telugu. Many people who have their mother tongue “Telugu” struggle to read Telugu. There are 2 Telugu speaking states “Andhra Pradesh” and “Telangana” where about 90% of them speak Telugu and Telugu is fourth most spoken language in India. So, it is much more important to speak Telugu.
+Problem validation
+•	Identify Core Problem: Limited resources are available for Telugu-speaking students and learners, making it difficult to access quality educational and reading materials in Telugu.
+•	Define Target Audience: Focus on Telugu-speaking students and individuals learning the language who need support for reading, comprehension, and vocabulary building.
+Existing solutions and their limitations
+1.	Google Translate
+•	Functionality: Provides basic translations from Telugu to other languages helping users.
+•	Limitations: Limited Context Accuracy and No Language Learning Support
+2.	Duolingo and Other Language Apps
+•	Functionality: Apps like Duolingo offer language learning for languages, using vocabulary.
+•	Limitations: Lack of Telugu Support and Generic Learning Approach
+3.	Telugu News Apps
+•	Functionality: Apps like Eenadu offer Telugu news that helps improve reading and vocabulary.
+•	Limitations: Complex Language Level and No Educational Focus.
+Our Solution and Its Uniqueness
+1.	The app is tailored for beginners who struggle with reading Telugu, providing structured support.
+2.	It features authentic voice support, simulating a native Telugu speaker’s pronunciation and accent.
+3.	A competitive environment is included, allowing users to track progress with leaderboards and scores.
+Technical Description and Feasibility
+1.	Front-End (React):
+o	User Interface
+o	Story Display and Interaction
+o	Dynamic Leaderboards and Scoring
+
+2.	Back-End (Express and Node.js):
+o	Authentication and Database Management
+o	Image Upload and Text Extraction
+o	Speech Recognition and Feedback
+3.	Database (Firebase and Firestore):
+o	Data Storage and Management
+o	Real-Time Reading and Audio Feedback
+o	Progressive Learning
+4.	Feasibility:
+•	React, Express, and Firebase provide a robust, scalable architecture. Tesseract OCR and Speech Recognition APIs make text extraction and pronunciation feedback feasible. This setup effectively supports a comprehensive Telugu learning experience with personalized guidance, real-time feedback, and engaging competitive elements.
+Prototype images/Algorithms/Flowcharts/Graphs
+
+      
+
+   
