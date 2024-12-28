@@ -6,7 +6,7 @@ The Telugu Language Learning Application is designed to assist Telugu-speaking s
 
 ## Problem Description
 
-Many Telugu speakers, especially students in Andhra Pradesh and Telangana, face challenges in accessing quality educational and reading materials in Telugu. Our app addresses this core issue by providing tailored resources and support for reading, comprehension, and vocabulary building.
+Many Telugu speakers, especially students in Andhra Pradesh and Telangana, face challenges in accessing quality educational and reading materials in Telugu. Our application addresses this core issue by providing tailored resources and support for reading, comprehension, and vocabulary building.
 
 ## Problem Validation
 
